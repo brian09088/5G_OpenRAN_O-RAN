@@ -1,5 +1,6 @@
 # 5G_ORAN_IoT_Penetration-test
-5G O-RAN IoT Penetration test
+- 5G O-RAN IoT Penetration test
+- Ic66442-1/4開放原始碼威脅分析
 ------
 - IEC 62446-1
 - IEC 62443-1
