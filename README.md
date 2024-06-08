@@ -1,7 +1,6 @@
 # 5G_ORAN_IoT_Penetration-test
 ------
-## Auray Technology Corp. : 5G ORAN Workshop 2024/0527
-- [Slide links]()
+- [Slide folder links](https://mega.nz/folder/a8JWEILS)
 ------
 - 5G O-RAN IoT Penetration test
 - Ic66442-1/4開放原始碼威脅分析
