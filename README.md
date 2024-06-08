@@ -1,5 +1,6 @@
 # 5G_ORAN_IoT_Penetration-test
 ------
+slides (decryption keys required, please contact me)
 - [Slide folder links](https://mega.nz/folder/a8JWEILS)
 ------
 - 5G O-RAN IoT Penetration test
