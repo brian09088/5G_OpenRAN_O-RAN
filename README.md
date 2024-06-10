@@ -1,6 +1,6 @@
 # 中華民國-國家太空網通產業供應鏈-新星飛揚計畫(113年度)
 
-## 5G系統整合加值推動計畫
+## 5G系統整合加值推動計畫(5G, B5G, 6G)
   - [https://www.satcom.org.tw/zh-tw](https://www.5g-jump.org.tw/zh-tw)
 ------
 ## Open-RAN, O-RAN Software Community
