@@ -1,5 +1,8 @@
 # Talks, Seminar, Workshops :
 ------
+slides (decryption keys required, please contact me)
+- [Slide folder links](https://mega.nz/folder/a8JWEILS)
+------
 ## 5G-SA-Open RAN的無人機自動巡航系統
   - NSYSU Electricty Engineering Professor Hsu
 ## 5G O-RAN 檢測關技術與IoT弱點掃描演示 
